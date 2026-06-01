@@ -1,0 +1,1 @@
+cat /home/workdir/artifacts/ODBE-Forge/hass_install.sh
